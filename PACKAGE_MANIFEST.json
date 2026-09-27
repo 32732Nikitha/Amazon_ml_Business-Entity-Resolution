@@ -1,0 +1,7 @@
+{
+  "matching_results": "/content/drive/MyDrive/AmazonMLChallenge/MissingPairRescue_20260927_125938_18b939/submission/output/matching_results.tsv",
+  "candidate_pairs": "/content/drive/MyDrive/AmazonMLChallenge/MissingPairRescue_20260927_125938_18b939/submission/output/candidate_pairs.tsv",
+  "requirements": "/content/drive/MyDrive/AmazonMLChallenge/MissingPairRescue_20260927_125938_18b939/submission/code/business_entity_resolution/requirements.txt",
+  "readme": "/content/drive/MyDrive/AmazonMLChallenge/MissingPairRescue_20260927_125938_18b939/submission/code/business_entity_resolution/README.md",
+  "methodology": "/content/drive/MyDrive/AmazonMLChallenge/MissingPairRescue_20260927_125938_18b939/submission/Documentation_template.md"
+}
